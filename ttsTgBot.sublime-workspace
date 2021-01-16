@@ -1,0 +1,1370 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"log",
+				"logError"
+			],
+			[
+				"unh",
+				"uncaughtException"
+			],
+			[
+				"mess",
+				"messageDate"
+			],
+			[
+				"fu",
+				"fun"
+			],
+			[
+				"genre",
+				"generateVoiceBuffer"
+			],
+			[
+				"fun",
+				"fun"
+			],
+			[
+				"time",
+				"timeoutTo"
+			],
+			[
+				"tim",
+				"timeoutTo"
+			],
+			[
+				"timeo",
+				"timeoutTo"
+			],
+			[
+				"ses",
+				"sesions"
+			],
+			[
+				"T",
+				"Transfrormer"
+			],
+			[
+				"prep",
+				"prependOnceListener"
+			],
+			[
+				"stra",
+				"stream"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"std",
+				"stdout"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"valu",
+				"value1"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"read",
+				"readableEnded"
+			],
+			[
+				"sendD",
+				"sendDocument"
+			],
+			[
+				"ch",
+				"chunk"
+			],
+			[
+				"cre",
+				"createWriteStream"
+			],
+			[
+				"du",
+				"duplexStream"
+			],
+			[
+				"p",
+				"pipe"
+			],
+			[
+				"DU",
+				"Duplex"
+			],
+			[
+				"stri",
+				"string"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"utf",
+				"utf8"
+			],
+			[
+				"send",
+				"sendAudio"
+			],
+			[
+				"glad",
+				"glados"
+			],
+			[
+				"th",
+				"throw"
+			],
+			[
+				"g",
+				"glados"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"se",
+				"sendAnimation"
+			],
+			[
+				"repos",
+				"response"
+			],
+			[
+				"rel",
+				"reply"
+			],
+			[
+				"aud",
+				"audioCodec"
+			],
+			[
+				"replyWithV",
+				"replyWithVoice"
+			],
+			[
+				"repl",
+				"replyWithAudio"
+			],
+			[
+				"replyW",
+				"replyWithAudio"
+			],
+			[
+				"getVoic",
+				"getVoiceAudioBuffer"
+			],
+			[
+				"fo",
+				"forEach"
+			],
+			[
+				"ta",
+				"target"
+			],
+			[
+				"crea",
+				"createElement"
+			],
+			[
+				"create",
+				"createTabs"
+			],
+			[
+				"inn",
+				"innerDiv"
+			],
+			[
+				"mo",
+				"moveDown"
+			],
+			[
+				"onC",
+				"onClick"
+			],
+			[
+				"bu",
+				"button"
+			],
+			[
+				"st",
+				"setState"
+			],
+			[
+				"gr",
+				"darkgrey"
+			],
+			[
+				"sol",
+				"solid"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"Bu",
+				"ButtonControls"
+			],
+			[
+				"but",
+				"button>"
+			],
+			[
+				"ex",
+				"extends"
+			],
+			[
+				"rea",
+				"react"
+			],
+			[
+				"di",
+				"div"
+			],
+			[
+				"div",
+				"HTMLDivElement"
+			],
+			[
+				"arr",
+				"arrWithoutMissing"
+			],
+			[
+				"fi",
+				"fibonacci"
+			],
+			[
+				"def",
+				"definitelyPrime"
+			],
+			[
+				"perf",
+				"Perform"
+			],
+			[
+				"is",
+				"isIterable\tfunction"
+			],
+			[
+				"iter",
+				"iterator\tproperty"
+			],
+			[
+				"res",
+				"result\tconst"
+			],
+			[
+				"prom",
+				"promiseCount\tlet"
+			],
+			[
+				"re",
+				"resolve\tmethod"
+			],
+			[
+				"resolve",
+				"resolve"
+			],
+			[
+				"ca",
+				"catch\tmethod"
+			],
+			[
+				"try",
+				"tryCatch\tfunction"
+			],
+			[
+				"onre",
+				"onResolved\tparameter"
+			],
+			[
+				"if",
+				"ifPromiseLike\tfunction"
+			],
+			[
+				"reso",
+				"resolve\tparameter"
+			],
+			[
+				"onRe",
+				"onRejected\tparameter"
+			],
+			[
+				"on",
+				"onResolved"
+			],
+			[
+				"ins",
+				"instanceof\tkeyword"
+			],
+			[
+				"rejec",
+				"rejected"
+			],
+			[
+				"pa",
+				"payloadVarName\tparameter"
+			],
+			[
+				"resol",
+				"resolvedPromises\tlet"
+			],
+			[
+				"resolved",
+				"resolvedPromises\tlet"
+			],
+			[
+				"func",
+				"func\tFunction"
+			],
+			[
+				"rej",
+				"reject\tparameter"
+			],
+			[
+				"reje",
+				"reject\tparameter"
+			],
+			[
+				"fina",
+				"finally\tmethod"
+			],
+			[
+				"_re",
+				"_resolve\twarning"
+			],
+			[
+				"clear",
+				"clearTimeout\tfunction"
+			],
+			[
+				"_",
+				"_reject\tmethod"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"E",
+				"Error\tvar"
+			],
+			[
+				"set",
+				"setTimeout\tfunction"
+			],
+			[
+				"a",
+				"after"
+			],
+			[
+				"l",
+				"log\tmethod"
+			],
+			[
+				"e",
+				"error\tmethod"
+			],
+			[
+				"call",
+				"callbackStack\tproperty"
+			],
+			[
+				"ne",
+				"nextPerform\tproperty"
+			],
+			[
+				"then",
+				"thenCalback\tproperty"
+			],
+			[
+				"cl",
+				"class\tclass …"
+			],
+			[
+				"ar",
+				"Array\tvar"
+			],
+			[
+				"Ca",
+				"Callback\tinterface"
+			],
+			[
+				"F",
+				"FinalExpression\tinterface"
+			],
+			[
+				"init",
+				"initValues"
+			],
+			[
+				"fin",
+				"finalExpression\tparameter"
+			],
+			[
+				"ma",
+				"maxHeight"
+			],
+			[
+				"le",
+				"leftPart\tconst"
+			],
+			[
+				"he",
+				"heightsPoint\tconst"
+			],
+			[
+				"Hei",
+				"heights\twarning"
+			],
+			[
+				"find",
+				"findIndex\tmethod"
+			],
+			[
+				"heig",
+				"height"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"hg",
+				"height"
+			],
+			[
+				"min",
+				"minMaxSumOfArr\tfunction"
+			],
+			[
+				"m",
+				"max"
+			],
+			[
+				"ov",
+				"overflow-y\tproperty"
+			],
+			[
+				"me",
+				"messageContainer"
+			],
+			[
+				"input",
+				"inputField"
+			],
+			[
+				"user",
+				"userInput"
+			],
+			[
+				"do",
+				"Document\tvar"
+			],
+			[
+				"ali",
+				"align-self\tproperty"
+			],
+			[
+				"col",
+				"column-reverse\tflex-direction"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"D",
+				"Deputy\talias"
+			],
+			[
+				"get",
+				"getByIdOrInstance\tmethod"
+			],
+			[
+				"imp",
+				"implements\tkeyword"
+			],
+			[
+				"targ",
+				"targetFaction\tconst"
+			],
+			[
+				"tar",
+				"targetFaction\tconst"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"re",
+				"LSP: Rename"
+			],
+			[
+				"ren",
+				"LSP: Rename"
+			],
+			[
+				"renam",
+				"LSP: Rename"
+			],
+			[
+				"lsp",
+				"LSP: Restart Servers"
+			],
+			[
+				"ssjson",
+				"Set Syntax: JSON"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"prett",
+				"Pretty JSON: Minify JSON"
+			],
+			[
+				"Pretty",
+				"Pretty JSON: Format JSON"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ssson",
+				"Set Syntax: JSON"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"deb",
+				"Debugger: Open"
+			],
+			[
+				"rena",
+				"Rename File"
+			],
+			[
+				"ssts",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"sst",
+				"Set Syntax: TypeScriptReact"
+			],
+			[
+				"sstsx",
+				"Set Syntax: TSX"
+			],
+			[
+				"sstyp",
+				"Set Syntax: TypeScriptReact"
+			],
+			[
+				"set syna",
+				"Preferences: Settings – Syntax Specific"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"log",
+				"Git: Log All"
+			],
+			[
+				"ad",
+				"Git: Add Current File"
+			],
+			[
+				"gita",
+				"Git: Add All"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"lg",
+				"Git: Log All"
+			],
+			[
+				"add",
+				"Git: Add All"
+			],
+			[
+				"git ad",
+				"Git: Add All"
+			],
+			[
+				"reset",
+				"Git: Reset (hard) HEAD"
+			],
+			[
+				"cha",
+				"Git: Change Branch"
+			],
+			[
+				"git resr",
+				"Git: Reset (unstage) Current File"
+			],
+			[
+				"insa",
+				"Package Control: Install Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"diff",
+				"Git: Diff All Files"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"theme",
+				"Monokai Pro: select theme"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"the",
+				"UI: Select Theme"
+			],
+			[
+				"push",
+				"Git: Push Current Branch"
+			],
+			[
+				"cust",
+				"Git: Custom Command"
+			],
+			[
+				"bra",
+				"Git: New Branch"
+			],
+			[
+				"git cus",
+				"Git: Custom Command"
+			],
+			[
+				"git c",
+				"Git: Custom Command"
+			],
+			[
+				"sts",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"lo",
+				"Git: Log All"
+			],
+			[
+				"merg",
+				"Git: Merge Branch"
+			],
+			[
+				"sjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"stas",
+				"Git: Stash Apply"
+			],
+			[
+				"com amm",
+				"Git: Amend Commit"
+			],
+			[
+				"rese",
+				"Git: Reset (unstage) All"
+			],
+			[
+				"sta",
+				"Git: Stash Pop"
+			],
+			[
+				"chan",
+				"Git: Change Branch"
+			],
+			[
+				"merge",
+				"Git: Merge Branch"
+			],
+			[
+				"add a",
+				"Git: Add All"
+			],
+			[
+				"git log",
+				"Git: Log All"
+			],
+			[
+				"Git: cust",
+				"Git: Custom Command"
+			],
+			[
+				"reset ",
+				"Git: Reset (hard) HEAD"
+			],
+			[
+				"bran",
+				"Git: Change Branch"
+			],
+			[
+				"Com",
+				"Git: Commit"
+			],
+			[
+				"ssty",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"am",
+				"Git: Amend Commit"
+			],
+			[
+				"amme",
+				"Git: Amend Commit"
+			],
+			[
+				"ssv",
+				"Set Syntax: VB.NET"
+			],
+			[
+				"pcak ins",
+				"Package Control: Install Package"
+			],
+			[
+				"stts",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"new ",
+				"Build: New Build System"
+			],
+			[
+				"branc",
+				"Git: New Branch"
+			],
+			[
+				"gti ad",
+				"Git: Add All"
+			],
+			[
+				"ssc",
+				"Set Syntax: C++"
+			],
+			[
+				"type",
+				"TypeScript: Signature Info"
+			],
+			[
+				"Type",
+				"TypeScript: Rename"
+			],
+			[
+				"packa",
+				"Package Control: Disable Package"
+			],
+			[
+				"Ty",
+				"TypeScript: Refactor"
+			],
+			[
+				"Packa",
+				"Package Control: List Packages"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"insall",
+				"Package Control: Install Package"
+			],
+			[
+				"ss js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ss",
+				"Set Syntax: HTML"
+			],
+			[
+				"ss cs",
+				"Set Syntax: CSS"
+			],
+			[
+				"ssshe",
+				"Set Syntax: Bourne Again Shell (bash)"
+			],
+			[
+				"pus",
+				"Git: Push Current Branch"
+			],
+			[
+				"pul",
+				"Git: Pull Current Branch"
+			],
+			[
+				"pull",
+				"Git: Pull Current Branch"
+			],
+			[
+				"c",
+				"Git: Commit"
+			],
+			[
+				"dif",
+				"Git: Diff Current File"
+			],
+			[
+				"ssj",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssht",
+				"Set Syntax: HTML"
+			],
+			[
+				"ssjso",
+				"Set Syntax: JSON"
+			],
+			[
+				"ch",
+				"Git: Change Branch"
+			],
+			[
+				"del",
+				"Git: Delete Branch"
+			],
+			[
+				"git merg",
+				"Git: Merge Branch"
+			],
+			[
+				"mer",
+				"Git: Merge Branch"
+			],
+			[
+				"co",
+				"Git: Commit"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git me",
+				"Git: Merge Branch"
+			],
+			[
+				"mrg",
+				"Git: Merge Branch"
+			],
+			[
+				"pu",
+				"Git: Push Current Branch"
+			],
+			[
+				"di",
+				"Git: Diff All Files"
+			],
+			[
+				"amm",
+				"Git: Amend Commit"
+			],
+			[
+				"new",
+				"Git: New Branch"
+			],
+			[
+				"Push",
+				"Git: Push Current Branch"
+			],
+			[
+				"Ad",
+				"Git: Add All"
+			],
+			[
+				"AD",
+				"Angular CLI: doc"
+			],
+			[
+				"che",
+				"Git: Checkout Current File"
+			],
+			[
+				"chec",
+				"Git: Checkout Current File"
+			],
+			[
+				"git:",
+				"Git: Diff Current File"
+			],
+			[
+				"stats",
+				"Git: Status"
+			],
+			[
+				"lig",
+				"Angular CLI: get"
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"Comm",
+				"Git: Commit"
+			],
+			[
+				"acom",
+				"Git: Amend Commit"
+			],
+			[
+				"commt",
+				"Git: Commit"
+			],
+			[
+				"comi",
+				"Git: Commit"
+			],
+			[
+				"amend",
+				"Git: Amend Commit"
+			],
+			[
+				"COmm",
+				"Git: Commit"
+			],
+			[
+				"Commit",
+				"Git: Commit"
+			],
+			[
+				"Commi",
+				"Git: Commit"
+			],
+			[
+				"commti",
+				"Git: Commit"
+			],
+			[
+				"stash",
+				"Git: Stash Apply"
+			],
+			[
+				"a",
+				"About"
+			],
+			[
+				"Comi",
+				"Git: Commit"
+			],
+			[
+				"git sta",
+				"Git: Stash Drop"
+			],
+			[
+				"his",
+				"Git: Commit history"
+			],
+			[
+				"Show ",
+				"Git: Show Previous Version of Current File"
+			],
+			[
+				"show",
+				"Git: Show Commit By Hash"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 333.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/ar4y/Projects/ttsTgBot"
+	],
+	"file_history":
+	[
+		"/home/ar4y/.cache/typescript/4.1/node_modules/@types/node-telegram-bot-api/index.d.ts",
+		"/home/ar4y/Projects/converter-voice-telegram-bot/node_modules/node-telegram-bot-api/src/telegram.js",
+		"/home/ar4y/Projects/converter-voice-telegram-bot/test.js",
+		"/home/ar4y/Projects/converter-voice-telegram-bot/node_modules/@types/node/globals.d.ts",
+		"/home/ar4y/Projects/converter-voice-telegram-bot/node_modules/node-telegram-bot-api/src/test.json",
+		"/home/ar4y/Projects/converter-voice-telegram-bot/node_modules/sandwich-stream/dist/sandwich-stream.mjs",
+		"/home/ar4y/Projects/converter-voice-telegram-bot/node_modules/sandwich-stream/dist/sandwich-stream.d.ts",
+		"/home/ar4y/Projects/converter-voice-telegram-bot/node_modules/telegraf/src/core/network/multipart-stream.ts",
+		"/home/ar4y/Projects/converter-voice-telegram-bot/node_modules/telegraf/src/core/network/client.ts",
+		"/home/ar4y/Projects/converter-voice-telegram-bot/node_modules/@types/node/stream.d.ts",
+		"/home/ar4y/Projects/converter-voice-telegram-bot/node_modules/@types/node/fs.d.ts",
+		"/home/ar4y/Projects/converter-voice-telegram-bot/node_modules/form-data/README.md",
+		"/home/ar4y/Projects/converter-voice-telegram-bot/node_modules/form-data/lib/form_data.js",
+		"/home/ar4y/Projects/converter-voice-telegram-bot/tgBotApi.js",
+		"/home/ar4y/Projects/converter-voice-telegram-bot/node_modules/mime/mime.js",
+		"/home/ar4y/Projects/converter-voice-telegram-bot/node_modules/depd/index.js",
+		"/home/ar4y/Projects/converter-voice-telegram-bot/node_modules/telegraf/lib/core/network/client.js",
+		"/home/ar4y/Projects/converter-voice-telegram-bot/telegraf.js",
+		"/home/ar4y/Projects/converter-voice-telegram-bot/node_modules/telegraf/src/telegram.ts",
+		"/home/ar4y/Projects/converter-voice-telegram-bot/node_modules/telegraf/src/context.ts",
+		"/home/ar4y/Projects/converter-voice-telegram-bot/converter-voice-telegram-bot.sublime-project",
+		"/home/ar4y/Projects/converter-voice-telegram-bot/node_modules/sandwich-stream/dist/sandwich-stream.js",
+		"/home/ar4y/Projects/converter-voice-telegram-bot/node_modules/typegram/message.d.ts",
+		"/home/ar4y/.cache/typescript/4.1/node_modules/@types/node/stream.d.ts",
+		"/home/ar4y/Projects/converter-voice-telegram-bot/node_modules/@sindresorhus/is/dist/index.js",
+		"/home/ar4y/Projects/converter-voice-telegram-bot/node_modules/typegram/proxied.d.ts",
+		"/home/ar4y/Projects/converter-voice-telegram-bot/node_modules/telegraf/src/telegram-types.ts",
+		"/home/ar4y/Projects/converter-voice-telegram-bot/node_modules/telegraf/typings/telegram.d.ts",
+		"/home/ar4y/Projects/converter-voice-telegram-bot/node_modules/got/dist/source/index.d.ts",
+		"/home/ar4y/Projects/converter-voice-telegram-bot/app.js",
+		"/home/ar4y/Projects/land/index1.html",
+		"/home/ar4y/Projects/land/css/app.b5b70e644875b09e62b4.css",
+		"/home/ar4y/Projects/react-test/src/index.js",
+		"/home/ar4y/Projects/react-test/src/components/index.js",
+		"/home/ar4y/Projects/react-test/src/components/ButtonControls.js",
+		"/home/ar4y/Projects/react-test/src/App.js",
+		"/home/ar4y/Projects/react-test/src/App.tsx",
+		"/home/ar4y/Projects/react-test/src/App.jsx",
+		"/home/ar4y/Projects/Geekhub/Hometask5/task2.js",
+		"/home/ar4y/Projects/Geekhub/Hometask5/task1.js",
+		"/home/ar4y/Projects/Geekhub/Hometask3/task1.ts",
+		"/home/ar4y/Projects/Geekhub/Hometask5/perform.test.js",
+		"/home/ar4y/Projects/Geekhub/Geekhub.sublime-project",
+		"/home/ar4y/Projects/Geekhub/Hometask5/perform.js",
+		"/home/ar4y/Projects/Geekhub/test.js",
+		"/home/ar4y/eng.txt",
+		"/home/ar4y/Projects/Geekhub/Hometask5/task.js",
+		"/home/ar4y/.config/sublime-text-3/Packages/TypeScript/Preferences.sublime-settings",
+		"/home/ar4y/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/ar4y/.config/sublime-text-3/Packages/TypeScript/TypeScript.sublime-settings",
+		"/home/ar4y/Projects/Geekhub/Hometask2/secondTask.js",
+		"/home/ar4y/Projects/Geekhub/Hometask2/a.ts",
+		"/home/ar4y/.config/sublime-text-3/Packages/User/TypeScript.sublime-settings",
+		"/home/ar4y/Projects/Geekhub/Hometask2/firstTask.js",
+		"/home/ar4y/Projects/Geekhub/README.md",
+		"/home/ar4y/Projects/Geekhub/.gitignore",
+		"/home/ar4y/Projects/learnJs/chat/app.js",
+		"/home/ar4y/Projects/learnCpp/lab41.cpp",
+		"/home/ar4y/Projects/learnJs/typescript/firstLesson/components/community.ts",
+		"/home/ar4y/Projects/learnJs/typescript/firstLesson/components/parliament.ts",
+		"/home/ar4y/Projects/learnJs/typescript/firstLesson/components/faction.ts",
+		"/home/ar4y/Projects/learnJs/typescript/firstLesson/index.ts",
+		"/home/ar4y/Projects/learnCpp/lab2.cpp",
+		"/home/ar4y/.config/sublime-text-3/Packages/TypeScript/tsserver/lib.es2015.collection.d.ts",
+		"/home/ar4y/.config/sublime-text-3/Packages/TypeScript/tsserver/lib.dom.d.ts",
+		"/home/ar4y/Projects/learnJs/typescript/firstLesson/build/components/community.js",
+		"/home/ar4y/Projects/learnJs/typescript/firstLesson/utils/types.ts",
+		"/home/ar4y/Projects/learnJs/typescript/firstLesson/tsconfig.json",
+		"/home/ar4y/Projects/learnJs/typescript/firstLesson/build/components/parliament.js",
+		"/home/ar4y/Projects/learnJs/typescript/firstLesson/components/index.ts",
+		"/home/ar4y/Projects/learnJs/typescript/firstLesson/utils/index.ts",
+		"/home/ar4y/.config/sublime-text-3/Packages/TypeScript/TypeScriptReact.sublime-settings",
+		"/home/ar4y/.config/sublime-text-3/Packages/ImportJS/ImportJS.sublime-settings",
+		"/home/ar4y/Projects/learnJs/typescript/firstLesson/human.ts",
+		"/home/ar4y/Projects/learnJs/typescript/firstLesson/deputy.ts",
+		"/home/ar4y/Projects/learnJs/typescript/firstLesson/faction.ts",
+		"/home/ar4y/Projects/learnJs/typescript/firstLesson/community.ts",
+		"/home/ar4y/Projects/learnJs/typescript/firstLesson/customTypes.ts",
+		"/home/ar4y/Projects/learnJs/typescript/firstLesson/parliament.ts",
+		"/home/ar4y/Projects/learnJs/secondLesson/index.html",
+		"/home/ar4y/Projects/learnJs/secondLesson/main.js",
+		"/home/ar4y/Projects/learnJs/index.html",
+		"/home/ar4y/Projects/learnJs/third.js",
+		"/home/ar4y/Projects/learnJs/second.js",
+		"/home/ar4y/Projects/learnJs/first.js",
+		"/home/ar4y/Downloads/Telegram Desktop/land2/land2/custom.js",
+		"/home/ar4y/Downloads/Telegram Desktop/land2/land2/index.php",
+		"/home/ar4y/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/ar4y/Downloads/Telegram Desktop/land2/land2/353355622.html",
+		"/home/ar4y/Projects/bluetoothctl_dmenu/testOutput",
+		"/home/ar4y/Projects/bluetoothctl_dmenu/testFile",
+		"/home/ar4y/Projects/bluetoothctl_dmenu/test",
+		"/home/ar4y/Projects/CrashMonitor/crash-monitor.js",
+		"/home/ar4y/Projects/CrashMonitor/getItemsFromStore.js",
+		"/home/ar4y/Projects/autoDiscordPluser/package.json",
+		"/home/ar4y/Projects/autoDiscordPluser/app.js",
+		"/home/ar4y/Projects/simple-vk-bot/config/config.py",
+		"/home/ar4y/Projects/simple-vk-bot/testDecorators.py",
+		"/home/ar4y/Projects/simple-vk-bot/web/__init__.py",
+		"/home/ar4y/Projects/simple-vk-bot/web.py",
+		"/home/ar4y/Projects/testWebAnimations/node.js",
+		"/home/ar4y/Projects/reciveDeletedMsg/app.test.py",
+		"/home/ar4y/Projects/reciveDeletedMsg/text.py",
+		"/home/ar4y/Projects/learnPython/issue",
+		"/home/ar4y/Projects/findBadWordTelegram/package-lock.json",
+		"/home/ar4y/Projects/test/app.js",
+		"/home/ar4y/Projects/test/workedProxy.txt",
+		"/home/ar4y/Projects/test/proxy.txt",
+		"/home/ar4y/Projects/test/message.txt",
+		"/home/ar4y/Projects/findBadWordTelegram/db.json",
+		"/home/ar4y/Projects/findBadWordTelegram/app.js",
+		"/home/ar4y/Projects/findBadWordTelegram/logs/log-2020-02-14T17:30:19.txt",
+		"/home/ar4y/Projects/findBadWordTelegram/logs/log-2020-02-14T17:13:23.txt",
+		"/home/ar4y/Projects/findBadWordTelegram/logs/log-2020-1-14T13:32:28.txt",
+		"/home/ar4y/Projects/findBadWordTelegram/logs/log-2020-1-14T13:30:44.txt",
+		"/home/ar4y/Projects/findBadWordTelegram/logs/log.txt",
+		"/home/ar4y/Projects/findBadWordTelegram/node_modules/colors/examples/normal-usage.js",
+		"/home/ar4y/Projects/findBadWordTelegram/main.php",
+		"/home/ar4y/Projects/findBadWordTelegram/tdlib/tg_cli",
+		"/home/ar4y/Projects/findBadWordTelegram/api-schema-57.json",
+		"/home/ar4y/Projects/findBadWordTelegram/package.json",
+		"/home/ar4y/Projects/findBadWordTelegram/Censure.php",
+		"/home/ar4y/Projects/helpHtmlForm/index.html",
+		"/home/ar4y/Projects/helpHtmlForm/style.css",
+		"/home/ar4y/Projects/test-plugin/popup.html",
+		"/home/ar4y/Projects/test-plugin/steamLogin.js",
+		"/home/ar4y/Projects/test-plugin/background.js",
+		"/home/ar4y/Projects/test-plugin/popup.js"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 107.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 67.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Debugger":
+	{
+		"height": 253.0
+	},
+	"output.Debugger: Console":
+	{
+		"height": 249.0
+	},
+	"output.Debugger: Protocol":
+	{
+		"height": 0.0
+	},
+	"output.diagnostics":
+	{
+		"height": 345.0
+	},
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 197.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 132.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.references":
+	{
+		"height": 136.0
+	},
+	"pinned_build_system": "",
+	"project": "ttsTgBot.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Projects/Geekhub/Geekhub.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 214.0,
+		"last_filter": "de",
+		"selected_items":
+		[
+			[
+				"de",
+				"delete"
+			],
+			[
+				"",
+				"Map"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 256.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
